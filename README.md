@@ -36,8 +36,8 @@
     <a href="https://www.sql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SQL2008_logo.svg/1200px-SQL2008_logo.svg.png" alt="SQL" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayem-kin&show_icons=true&locale=en&layout=compact" alt="sayem-kin" /></p>
+<!-- <h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayem-kin&show_icons=true&locale=en&layout=compact" alt="sayem-kin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayem-kin&show_icons=true&locale=en" alt="sayem-kin" /></p>
 
