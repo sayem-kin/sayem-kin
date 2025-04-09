@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayem-kin&label=Profile%20views&color=0e75b6&style=flat" alt="sayem-kin" /> </p>
 
+<!-- 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayem-kin" alt="sayem-kin" /></a> </p>
+-->
 
 - 🔭 Currently exploring the intersection of **Machine Learning**, **Deep Learning**, and **AI in Healthcare** 
 - 🌱 Learning cutting-edge tools like **TensorFlow**, **PyTorch**, and **AI techniques for healthcare applications**
